@@ -1,0 +1,963 @@
+1009gym
+Once you have reached the gym
+entering the gym.
+
+1141cafeteria
+Once you have reached the cafeteria
+and stop once you have reached the cafeteria.
+
+1067library
+Once you have reached the library
+and stop once you have reached the library.
+
+0001mainEntrance
+Once you have reached the main entrance
+and stop once you have reached the main entrance.
+
+0002mainExit
+Once you have reached the main exit
+and stop once you have reached the main exit.
+
+gymEntrance
+Once you have reached the gym entrance
+and stop once you have reached the gym entrance.
+
+atriumEntrance
+Once you have reached the atrium entrance
+and stop once you have reached the atrium entrance.
+
+
+SA1
+Once you have walked up/down Stair A
+walking up/down Stair A.
+SB1
+Once you have walked up/down Stair B
+walking up/down Stair B.
+SC1
+Once you have walked up/down Stair C
+walking up/down Stair C.
+SD1
+Once you have walked up/down Stair D
+walking up/down Stair D.
+SE1
+Once you have walked up/down Stair E
+walking up/down Stair E.
+SF1
+Once you have walked up/down Stair F
+walking up/down Stair F.
+SG1
+Once you have walked up/down Stair G
+walking up/down Stair G.
+SH1
+Once you have walked up/down Stair H
+walking up/down Stair H.
+
+Exit1
+Once you have passed through the exit
+passing through the exit.
+Exit2
+Once you have passed through the exit
+passing through the exit.
+Exit3
+Once you have passed through the exit
+passing through the exit.
+Exit4
+Once you have passed through the exit
+passing through the exit.
+Exit5
+Once you have passed through the exit
+passing through the exit.
+Exit6
+Once you have passed through the exit
+passing through the exit.
+Exit7
+Once you have passed through the exit
+passing through the exit.
+Exit8
+Once you have passed through the exit
+passing through the exit.
+Exit9
+Once you have passed through the exit
+passing through the exit.
+Exit10
+Once you have passed through the exit
+passing through the exit.
+Exit11
+Once you have passed through the exit
+passing through the exit.
+Exit12
+Once you have passed through the exit
+passing through the exit.
+Exit13
+Once you have passed through the exit
+passing through the exit.
+Exit14
+Once you have passed through the exit
+passing through the exit.
+Exit15
+Once you have passed through the exit
+passing through the exit.
+Exit16
+Once you have passed through the exit
+passing through the exit.
+Exit17
+Once you have passed through the exit
+passing through the exit.
+Exit18
+Once you have passed through the exit
+passing through the exit.
+Exit19
+Once you have passed through the exit
+passing through the exit.
+Exit20
+Once you have passed through the exit
+passing through the exit.
+Exit21
+Once you have passed through the exit
+passing through the exit.
+Exit22
+Once you have passed through the exit
+passing through the exit.
+
+corridorA1
+Starting from room 1008 
+and stop once you have reached the entrance to room 1008.
+corridorA2
+Starting from room 1007
+and stop once you have reached the entrance to room 1007.
+corridorA3
+Starting from room 1006
+and stop once you have reached the entrance to room 1006.
+corridorA4
+Starting from room 1005
+and stop once you have reached the entrance to room 1005.
+
+corridorB1
+Starting from change room 1 (1010)
+and stop once you have reached the entrance to change room 1 (1010).
+corridorB2
+Starting from the foods & hospitality room (room 1044)
+and stop once you have reached the entrance to the foods & hospitality room (room 1044).
+corridorB3
+Starting from change room 2 (room 1011)
+and stop once you have reached the entrance to change room 2 (room 1011).
+corridorB4
+Starting from room 1065
+and stop once you have reached the entrance to room 1065.
+corridorB5
+Starting from room 1086
+and stop once you have reached the entrance to room 1086.
+corridorB6
+Starting from the girls washroom (room 1013)
+and stop once you have reached the entrance to the girls washroom (room 1013).
+corridorB7
+Starting from the foods & hospitality room (room 1044)
+and stop once you have reached the entrance to the foods & hospitality room (room 1044).
+corridorB8
+Starting from room 1045
+and stop once you have reached the entrance to room 1045.
+corridorB9
+Starting from change room 3 (room 1016)
+and stop once you have reached the entrance to change room 3 (room 1016).
+corridorB10
+Starting from room 1046
+and stop once you have reached the entrance to room 1046.
+corridorB11
+Starting from change room 4 (room 1017)
+and stop once you have reached the entrance to change room 4 (room 1017).
+corridorB12
+Starting from the female staff washroom (room 1048)
+and stop once you have reached the entrance to the female staff washroom (room 1048).
+corridorB13
+Starting from the male staff washroom (room 1049)
+and stop once you have reached the entrance to the male staff washroom (room 1049).
+corridorB14
+Starting from the barrier-free washroom (room 1018)
+and stop once you have reached the entrance to the barrier-free washroom (room 1018).
+corridorB15
+Starting from room 1019
+and stop once you have reached the entrance to room 1019.
+
+corridorC1
+Starting from the exercise room (room 1021)
+and stop once you have reached the entrance to the exercise room (room 1021).
+corridorC2
+Starting from the family studies (food) room (room 1022)
+and stop once you have reached the entrance to the family studies (food) room (room 1022).
+corridorC3
+Starting from the family studies room (textiles) (room 1023)
+and stop once you have reached the entrance to the family studies room (textiles) (room 1023).
+corridorC4
+Starting from the entrance to the gym corridor
+and stop once you have passed through the gym corridor.
+corridorC5
+Starting from the intersection
+and stop once you have reached the intersection.
+corridorC6
+Starting from music room 1 (room 1050)
+and stop once you have reached the entrance to music room 1 (room 1050).
+corridorC7
+Starting from the storage room (room 1024)
+and stop once you have reached the entrance to the storage room (room 1024).
+corridorC8
+Starting from room 1025
+and stop once you have reached the entrance to room 1025.
+corridorC9
+Starting from music room 1 (room 1050)
+and stop once you have reached the entrance to music room 1 (room 1050).
+corridorC10
+Starting from music room 2 (room 1051)
+and stop once you have reached the entrance to music room 2 (room 1051).
+corridorC11
+Starting from music room 2 (room 1051)
+and stop once you have reached the entrance to music room 2 (room 1051).
+corridorC12
+Starting from room 1026
+and stop once you have reached the entrance to room 1026.
+
+corridorD1
+Starting from computer classroom room A (room 1057)
+and stop once you have reached the entrance to computer classroom A (room 1057).
+corridorD2
+Starting from the construction technology room (room 1027)
+and stop once you have reached the entrance to the construction technology room (room 1027).
+corridorD3
+Starting from the computer/design engineering room (room 1058)
+and stop once you have reached the entrance to the computer/design engineering room (room 1058).
+corridorD4
+Starting from the health and services room (room 1028)
+and stop once you have reached the entrance to the health and services room (room 1028).
+corridorD5
+Starting from the cosmetology room (room 1029)
+and stop once you have reached the entrance to the cosmetology room (room 1029).
+
+corridorE1
+Starting from the group guidance room (room 1003)
+and stop once you have reached the entrance to the group guidance room (room 1003).
+corridorE2
+Starting from the co-op office (room 1043)
+and stop once you have reached the entrance to the co-op office (room 1043).
+corridorE3
+Starting from the guidance room (room 1003)
+and stop once you have reached the entrance to the guidance room (room 1003).
+corridorE4
+Starting from the student council room (room 1042)
+and stop once you have reached the entrance to the student council room (room 1042).
+corridorE5
+Starting from the cafeteria entrance
+and stop once you have reached the entrance to the cafeteria entrance.
+corridorE6
+Starting from the copy/mail room (room 1002)
+and stop once you have reached the entrance to the copy/mail room (room 1002).
+corridorE7
+Starting from the office (room 1001)
+and stop once you have reached the entrance to the office (room 1001).
+corridorE8
+Starting from the office (room 1001)
+and stop once you have reached the entrance to the office (room 1001).
+
+corridorF1
+Starting from computer classroom B (room 1066)
+and stop once you have reached the entrance to computer classroom B (room 1066).
+corridorF2
+Starting from the cafeteria entrance
+and stop once you have reached the cafeteria entrance.
+corridorF3
+Starting from the cafeteria entrance
+and stop once you have reached the cafeteria entrance.
+corridorF4
+Starting from the cafeteria entrance
+and stop once you have reached the cafeteria entrance.
+corridorF5
+Starting from the library/learning commons entrance (room 1067)
+and stop once you have reached the entrance to the library/learning commons entrance (room 1067).
+corridorF6
+Starting from the stage entrance (room 1052)
+and stop once you have reached the entrance to the stage entrance (room 1052).
+corridorF7
+Starting from the theatre arts entrance (room 1054)
+and stop once you have reached the entrance to the theatre arts entrance (room 1054).
+corridorF8
+Starting from the tuck shop (room 1068)
+and stop once you have reached the entrance to the tuck shop (room 1068).
+corridorF9
+Starting from the end of the atrium
+and stop once you have reached the end of the atrium.
+
+corridorG1
+Starting from the staff room (room 1038)
+and stop once you have reached the entrance to the staff room (room 1038).
+corridorG2
+Starting from room 1036 (or the male staff washroom [room 1060] across it)
+and stop once you have reached the entrance to room 1036 (or the male staff washroom [room 1060] across it).
+corridorG3
+Starting from room 1035 (or the female staff washroom [room 1059] across it)
+and stop once you have reached the entrance to room 1035 (or the female staff washroom [room 1059] across it).
+corridorG4
+Starting from room 1034
+and stop once you have reached the entrance to room 1034.
+corridorG5
+Starting from the entrance to the stairway
+and stop once you have reached the entrance to the stairway.
+corridorG6
+Starting from room 1033
+and stop once you have reached the entrance to room 1033.
+corridorG7
+Starting from room 1032
+and stop once you have reached the entrance to room 1032.
+corridorG8
+Starting from the computer/design engineering room (room 1058)
+and stop once you have reached the entrance to the computer/design engineering room (room 1058).
+corridorG9
+Starting from the teacher work room (room 1031)
+and stop once you have reached the entrance to the teacher work room (room 1031).
+corridorG10
+Starting from the transportation technology room (room 1030)
+and stop once you have reached the entrance from the transportation technology room (room 1030).
+
+corridorH1
+Starting from the special ed. room (room 1040)
+and stop once you have reached the entrance to the special ed. room (room 1040).
+corridorH2
+Starting from the boys washroom (room 1064)
+and stop once you have reached the entrance to the boys washroom (room 1064).
+corridorH3
+Starting from the special ed. room (room 1039)
+and stop once you have reached the entrance to the special ed. room (room 1039).
+corridorH4
+Starting from the girls washroom (room 1062)
+and stop once you have reached the entrance to the girls washroom (room 1062). 
+
+corridorI1
+Starting from the corner
+and stop once you have reached the corner.
+corridorI2
+Starting from room 2006
+and stop once you have reached the entrance to room 2006.
+corridorI3
+Starting from room 2005
+and stop once you have reached the entrance to room 2005.
+corridorI4
+Starting from room 2004
+and stop once you have reached the entrance to room 2004.
+corridorI5
+Starting from room 2003
+and stop once you have reached the entrance to room 2003.
+
+corridorJ1
+Starting from the corner
+and stop once you have reached the corner
+corridorJ2
+Starting from the intersection
+and stop once you have reached the entrance to room 
+corridorJ3
+Starting from computer classroom B (room 2007)
+and stop once you have reached the entrance of computer classroom B (room 2007).
+corridorJ4
+Starting from the chiller room (room 2046)
+and stop once you have reached the entrance to the chiller room (room 2046).
+corridorJ5
+Starting from the teacher work room (room 2008)
+and stop once you have reached the entrance to the teacher work room (room 2008).
+corridorJ6
+Starting from the academic storage room (room 2009)
+and stop once you have reached the entrance to the academic storage room (room 2009).
+corridorJ7
+Starting from the girls washroom (room 2010)
+and stop once you have reached the entrance to the girls washroom (room 2010).
+corridorJ8
+Starting from the boys washroom (room 2012)
+and stop once you have reached the entrance to the boys washroom (room 2012).
+corridorJ9
+Starting from room 2013
+and stop once you have reached the entrance to room 2013.
+corridorJ10
+Starting from the mechanical room (room 2047)
+and stop once you have reached the entrance to the mechanical room (room 2047).
+corridorJ11
+Starting from room 2014
+and stop once you have reached the entrance to room 2014.
+corridorJ12
+Starting from the female staff washroom (room 2048)
+and stop once you have reached the entrance to the female staff washroom (room 2048).
+corridorJ13
+Starting from the male staff washroom (room 2049)
+and stop once you have reached the entrance to the male staff washroom (room 2049).
+corridorJ14
+Starting from computer classroom A (room 2015)
+and stop once you have reached the entrance to computer classroom A (room 2015).
+
+corridorK1
+Starting from the corner
+and stop once you have reached the corner.
+corridorK2
+Starting from room 2018
+and stop once you have reached the entrance to room 2018.
+corridorK3
+Starting from room 2020
+and stop once you have reached the entrance to room 2020.
+corridorK4
+Starting from room 2017
+and stop once you have reached the entrance to room 2017.
+corridorK5
+Starting from the teacher work room (room 2016)
+and stop once you have reached the entrance to the teacher work room (room 2016).
+corridorK6
+Starting from room 2020
+and stop once you have reached the entrance to room 2020.
+corridorK7
+Starting from room 2021
+and stop once you have reached the entrance to room 2021.
+corridorK8
+Starting from the outside of the exit
+and stop once you have walked outside of the exit.
+corridorK9
+Starting from the intersection
+and stop once you have reached the intersection.
+corridorK10
+Starting from room 2023
+and stop once you have reached the entrance to room 2023.
+corridorK11
+Starting from room 2024
+and stop once you have reached the entrance to room 2024.
+corridorK12
+Starting from room 2025 (or the teacher work room [room 2051] across from it)
+and stop once you have reached the entrance to room 2025 (or the teacher work room [room 2051] across from it).
+corridorK13
+Starting from room 2025
+and stop once you have reached the entrance to room 2025.
+corridorK14
+Starting from room 2026
+and stop once you have reached the entrance to room 2026.
+
+corridorL1
+Starting from the boys washroom (room 2007)
+and stop once you have reached the entrance from the boys washroom (room 2007).
+corridorL2
+Starting from the barrier-free washroom (room 2028)
+and stop once you have reached the entrance to the barrier-free washroom (room 2028).
+corridorL3
+Starting from the girls washroom (room 2029)
+and stop once you have reached the entrance to the girls washroom (room 2029).
+corridorL4
+Starting from the science general room 1 (room 2064)
+and stop once you have reached the entrance to the science general room 1 (room 2064).
+corridorL5
+Starting from the male staff washroom (room 2030)
+and stop once you have reached the entrance to the male staff washroom (room 2030).
+corridorL6
+Starting from the science general room 1 (room 2052)
+and stop once you have reached the entrance to the science general room 1 (room 2052).
+corridorL7
+Starting from the female staff washroom (room 2031)
+and stop once you have reached the entrance to the female staff washroom (room 2031).
+corridorL8
+Starting from the custodian room (room 2032)
+and stop once you have reached the entrance to the custodian room (room 2032).
+corridorL9
+Starting from the mechanical room (room 2033)
+and stop once you have reached the entrance to the mechanical room (room 2033).
+
+corridorM1
+Starting from the technology communications room (room 2002)
+and stop once you have reached the entrance to the technology communications room (room 2002).
+corridorM2
+Starting from art room 1 (room 2001)
+and stop once you have reached the entrance to art room 1 (room 2001).
+corridorM3
+Starting from the projection/broadcast booth (room 2045)
+and stop once you have reached the entrance to the projection/broadcast booth (room 2045).
+corridorM4
+Starting from art room 2 (room 2000)
+and stop once you have reached the entrance to art room 2 (room 2000).
+
+corridorN1
+Starting from the intersection
+and stop once you have reached the intersection.
+corridorN2
+Starting from the science storage room (room 2059)
+and stop once you have reached the entrance to the science storage room (room 2059).
+corridorN3
+Starting from the physics room (room 2060)
+and stop once you have reached the entrance to the physics room (room 2060).
+corridorN4
+Starting from the science general room 4 (room 2061)
+and stop once you have reached the entrance to the science general room 4 (room 2061).
+corridorN5
+Starting from the science staff and preparation room (room 2062)
+and stop once you have reached the entrance to the science staff and preparation room (room 2062).
+corridorN6
+Starting from the science general room 3 (room 2063)
+and stop once you have reached the entrance to the science general room 3 (room 2063).
+corridorN7
+Starting from the science general room 2 (room 2064)
+and stop once you have reached the entrance to the science general room 2 (room 2064).
+corridorN8
+Starting from the intersection
+and stop once you have reached the intersection.
+corridorN9
+Starting from the corner
+and stop once you have reached the corner.
+
+corridorO1
+Starting from room corner
+and stop once you have reached the corner.
+corridorO2
+Starting from the hub room (room 2058)
+and stop once you have reached the entrance to the hub room (room 2058).
+corridorO3
+Starting from the electric room (room 2057)
+and stop once you have reached the entrance to the electric room (room 2057).
+corridorO4
+Starting from room 2040
+and stop once you have reached the entrance to room 2040.
+corridorO5
+Starting from room 2039
+and stop once you have reached the entrance to room 2039.
+corridorO6
+Starting from the biology room (room 2056)
+and stop once you have reached the entrance to the biology room (room 2056).
+corridorO7
+Starting from chemistry room 2 (room 2055)
+and stop once you have reached the entrance to chemistry room 2 (room 2055).
+corridorO8
+Starting from room 2038
+and stop once you have reached the entrance to room 2038.
+corridorO9
+Starting from the chemical mixing and storage room (room 2054)
+and stop once you have reached the entrance to the chemical mixing and storage room (room 2054).
+corridorO10
+Starting from the outside of the exit
+and stop once you have reached the outside of the exit.
+corridorO11
+Starting from chemistry room 1 (room 2053)
+and stop once you have reached the entrance to chemistry room 1 (room 2053).
+corridorO12
+Starting from room 2037
+and stop once you have reached the entrance to room 2037.
+corridorO13
+Starting from room 2035
+and stop once you have reached the entrance to room 2035.
+corridorO14
+Starting from the science general room 1 (room 2052)
+and stop once you have reached the entrance to the science general room 1 (room 2052).
+corridorO15
+Starting from the teacher work room (room 2035)
+and stop once you have reached the entrance to the teacher work room (room 2035).
+corridorO16
+Starting from computer classroom A (room 2034)
+and stop once you have reached the entrance to computer classroom A (room 2034)
+
+corridorP1
+Starting from the physics room (room 2060)
+and stop once you have reached the entrance to the physics room (room 2060).
+corridorP2
+Starting from computer classroom B (room 2044)
+and stop once you have reached the entrance to computer classroom B (room 2044).
+corridorP3
+Starting from the biology room (room 2056)
+and stop once you have reached the entrance to the biology room (room 2056).
+corridorP4
+Starting from the academic storage room (room 2043)
+and stop once you have reached the entrance to the academic storage room (room 2043).
+corridorP5
+Starting from room 2042
+and stop once you have reached the entrance to room 2042.
+corridorP6
+Starting from room 2041
+and stop once you have reached the entrance to room 2041.
+
+1008
+Starting from room 1008
+and stop once you have reach room 1008. 
+1007
+Starting from room 1007
+and stop once you have reach room 1007. 
+1006
+Starting from room 1006
+and stop once you have reach room 1006. 
+1005
+Starting from room 1005
+and stop once you have reach room 1005. 
+1004
+Starting from room 1004
+and stop once you have reach room 1004. 
+
+1010
+Starting from room 1010
+and stop once you have reach room 1010. 
+1044A
+Starting from room 1044
+and stop once you have reach room 1044. 
+1011
+Starting from room 1011
+and stop once you have reach room 1011. 
+1065
+Starting from room 1065
+and stop once you have reach room 1065. 
+1044B
+Starting from room 1044
+and stop once you have reach room 1044. 
+1013W
+Starting from room 1013
+and stop once you have reach room 1013. 
+1015W
+Starting from room 1015
+and stop once you have reach room 1015. 
+1016
+Starting from room 1016
+and stop once you have reach room 1016. 
+1045
+Starting from room 1045
+and stop once you have reach room 1045. 
+1017
+Starting from room 1017
+and stop once you have reach room 1017. 
+1048W
+Starting from room 1048
+and stop once you have reach room 1048. 
+1049W
+Starting from room 1049
+and stop once you have reach room 1049. 
+1018W
+Starting from room 1018
+and stop once you have reach room 1018. 
+1019
+Starting from room 1019
+and stop once you have reach room 1019. 
+
+1021
+Starting from room 1021
+and stop once you have reach room 1021. 
+1022
+Starting from room 1022
+and stop once you have reach room 1022. 
+1023
+Starting from room 1023
+and stop once you have reach room 1023. 
+1050A
+Starting from room 1050
+and stop once you have reach room 1050. 
+1050B
+Starting from room 1050
+and stop once you have reach room 1050. 
+1024
+Starting from room 1024
+and stop once you have reach room 1024. 
+1025
+Starting from room 1025
+and stop once you have reach room 1025. 
+1051A
+Starting from room 1051
+and stop once you have reach room 1051.
+1051B
+Starting from room 1051
+and stop once you have reach room 1051. 
+1026
+Starting from room 1026
+and stop once you have reach room 1026. 
+
+1057
+Starting from room 1057
+and stop once you have reach room 1057. 
+2027W
+Starting from room 2027
+and stop once you have reach room 2027. 
+1058A
+Starting from room 1058
+and stop once you have reach room 1058. 
+1058B
+Starting from room 1058
+and stop once you have reach room 1058. 
+
+1001A
+Starting from the office (room 1001)
+and stop once you have reached the office (room 1001).
+1001B
+Starting from the office (room 1001)
+and stop once you have reached the office (room 1001).
+1002
+Starting from the copy/mail room (room 1002)
+and stop once you have reached the copy/mail room (room 1002).
+1003A
+Starting from the group guidance room (room 1003)
+and stop once you have reached the group guidance room (room 1003)
+1003B
+Starting from the guidance room (room 1003)
+and stop once you have reached the guidance room (room 1003).
+
+
+2028W
+Starting from room 2028
+and stop once you have reach room 2028. 
+2029W
+Starting from room 2029
+and stop once you have reach room 2029. 
+1037W
+Starting from room 1037
+and stop once you have reach room 1037.
+
+1038
+Starting from room 1038
+and stop once you have reach room 1038. 
+1060W
+Starting from room 1060
+and stop once you have reach room 1060. 
+1036
+Starting from room 1036
+and stop once you have reach room 1036. 
+1059W
+Starting from room 1059
+and stop once you have reach room 1059. 
+1035
+Starting from room 1035
+and stop once you have reach room 1035. 
+1034
+Starting from room 1034
+and stop once you have reach room 1034. 
+1033
+Starting from room 1033
+and stop once you have reach room 1033. 
+1032
+Starting from room 1032
+and stop once you have reach room 1032. 
+1031
+Starting from room 1031
+and stop once you have reach room 1031. 
+1030
+Starting from room 1030
+and stop once you have reach room 1030. 
+
+1040
+Starting from room 1040
+and stop once you have reach room 1040. 
+1064W
+Starting from room 1064
+and stop once you have reach room 1064. 
+1039
+Starting from room 1039
+and stop once you have reach room 1039. 
+1062W
+Starting from room 1062
+and stop once you have reach room 1062. 
+
+2006
+Starting from room 2006
+and stop once you have reach room 2006. 
+2005
+Starting from room 2005
+and stop once you have reach room 2005. 
+2004
+Starting from room 2004
+and stop once you have reach room 2004. 
+2003
+Starting from room 2003
+and stop once you have reach room 2003. 
+
+2007
+Starting from room 2007
+and stop once you have reach room 2007. 
+2046
+Starting from room 2046
+and stop once you have reach room 2046. 
+2008
+Starting from room 2008
+and stop once you have reach room 2008. 
+2009
+Starting from room 2009
+and stop once you have reach room 2009. 
+2010W
+Starting from room 2010
+and stop once you have reach room 2010. 
+2012W
+Starting from room 2012
+and stop once you have reach room 2012. 
+2013
+Starting from room 2013
+and stop once you have reach room 2013. 
+2047
+Starting from room 2047
+and stop once you have reach room 2047. 
+2014
+Starting from room 2014
+and stop once you have reach room 2014. 
+2048W
+Starting from room 2048
+and stop once you have reach room 2048. 
+2049W
+Starting from room 2049
+and stop once you have reach room 2049. 
+2015
+Starting from room 2015
+and stop once you have reach room 2015. 
+
+2018
+Starting from room 2018
+and stop once you have reach room 2018. 
+2019
+Starting from room 2019
+and stop once you have reach room 2019. 
+2017
+Starting from room 2017
+and stop once you have reach room 2017. 
+2016
+Starting from room 2016
+and stop once you have reach room 2016. 
+2020
+Starting from room 2020
+and stop once you have reach room 2020. 
+2021
+Starting from room 2021
+and stop once you have reach room 2021. 
+2022
+Starting from room 2022
+and stop once you have reach room 2022. 
+2023
+Starting from room 2023
+and stop once you have reach room 2023. 
+2024
+Starting from room 2024
+and stop once you have reach room 2024. 
+2025
+Starting from room 2025
+and stop once you have reach room 2025. 
+2026
+Starting from room 2026
+and stop once you have reach room 2026. 
+
+2027W
+Starting from room 2027
+and stop once you have reach room 2027. 
+2028W
+Starting from room 2028
+and stop once you have reach room 2028. 
+2029W
+Starting from room 2029
+and stop once you have reach room 2029. 
+2064A
+Starting from room 2064
+and stop once you have reach room 2064. 
+2064B
+Starting from room 2064
+and stop once you have reach room 2064. 
+2030W
+Starting from room 2030
+and stop once you have reach room 2030. 
+2052A
+Starting from room 2052
+and stop once you have reach room 2052.
+2052B
+Starting from room 2052
+and stop once you have reach room 2052. 
+2031W
+Starting from room 2031
+and stop once you have reach room 2031. 
+2032
+Starting from room 2032
+and stop once you have reach room 2032. 
+2033
+Starting from room 2033
+and stop once you have reach room 2033. 
+
+2002
+Starting from room 2002
+and stop once you have reach room 2002. 
+2001
+Starting from room 2001
+and stop once you have reach room 2001. 
+2045
+Starting from room 2045
+and stop once you have reach room 2045. 
+2000
+Starting from room 2000
+and stop once you have reach room 2000. 
+
+2059
+Starting from room 2059
+and stop once you have reach room 2059. 
+2060A
+Starting from room 2060
+and stop once you have reach room 2060. 
+2060B
+Starting from room 2060
+and stop once you have reach room 2060. 
+2061
+Starting from room 2061
+and stop once you have reach room 2061. 
+2062
+Starting from room 2062
+and stop once you have reach room 2062. 
+2063
+Starting from room 2063
+and stop once you have reach room 2063. 
+
+2041
+Starting from room 2041
+and stop once you have reach room 2041. 
+2058
+Starting from room 2058
+and stop once you have reach room 2058. 
+2057
+Starting from room 2057
+and stop once you have reach room 2057. 
+2040
+Starting from room 2040
+and stop once you have reach room 2040. 
+2039
+Starting from room 2039
+and stop once you have reach room 2039. 
+2056A
+Starting from room 2056
+and stop once you have reach room 2056. 
+2056B
+Starting from room 2056
+and stop once you have reach room 2056. 
+2055
+Starting from room 2055
+and stop once you have reach room 2055. 
+2038
+Starting from room 2038
+and stop once you have reach room 2038. 
+2054
+Starting from room 2054
+and stop once you have reach room 2054. 
+2053
+Starting from room 2053
+and stop once you have reach room 2053. 
+2037
+Starting from room 2037
+and stop once you have reach room 2037. 
+2035
+Starting from room 2035
+and stop once you have reach room 2035. 
+2052A
+Starting from room 2052
+and stop once you have reach room 2052.
+2052B
+Starting from room 2052
+and stop once you have reach room 2052. 
+2035
+Starting from room 2035
+and stop once you have reach room 2035. 
+2034
+Starting from room 2034
+and stop once you have reach room 2034. 
+
+2060A
+Starting from room 2060
+and stop once you have reach room 2060. 
+2060B
+Starting from room 2060
+and stop once you have reach room 2060. 
+2044
+Starting from room 2044
+and stop once you have reach room 2044. 
+2043
+Starting from room 2043
+and stop once you have reach room 2043. 
+2042
+Starting from room 2042
+and stop once you have reach room 2042. 
+2041
+Starting from room 2041
+and stop once you have reach room 2041. 

@@ -1,0 +1,385 @@
+0001mainEntrance 0 0
+
+SB1 0 1
+1008 2 1
+1007 3 1
+1006 8 1
+1005 9 1
+1004 10 1
+SA1 12 1
+
+Exit10 12 3
+SF1 31 3
+Exit1 0 4
+corridorA1 2 4
+corridorA2 3 4 
+corridorA3 8 4
+corridorA4 9 4
+1003A 14 4
+1003B 17 4
+1001A 23 4
+1001B 27 4
+Exit11 28 4
+1038 44 4
+1037W 45 4
+
+1002 21 5
+1040 36 5
+1039 39 5
+
+gymEntrance 11 6
+Exit14 30 6
+
+1009gym 3 7
+Exit7 13 7
+corridorE1 14 7
+corridorE2 15 7
+corridorE3 17 7
+corridorE4 18 7
+corridorE5 20 7
+corridorE6 21 7
+corridorE7 23 7
+corridorE8 27 7
+atriumEntrance 28 7
+Exit9 33 7
+corridorH1 36 7
+corridorH2 37 7
+corridorH3 39 7
+corridorH4 40 7
+corridorG1 42 7
+
+1043 15 8
+1042 18 8
+1064W 37 8
+1062W 40 8
+
+1010 11 9
+corridorB1 12 9
+1065 32 9
+
+corridorB2 12 10
+1044A 14 10
+1060W 41 10
+corridorG2 42 10
+1036 44 10
+
+1011 11 11
+corridorB3 12 11
+1059W 41 11
+corridorG3 42 11
+1035 44 11
+
+corridorF1 29 12
+1066 33 12
+
+corridorF2 29 13
+
+corridorF3 29 14
+1086 11 14
+corridorB4 12 14
+
+corridorB5 12 15
+1044B 14 15
+corridorG4 42 15
+1034 44 15
+
+1013W 11 16
+corridorB6 12 16
+1141cafeteria 20 16
+corridorF4 29 16
+
+corridorF5 29 17
+1067library 33 17
+
+1015W 11 18
+corridorB7 12 18
+
+corridorB8 12 19
+1046 14 19
+corridorG5 42 19
+Exit8 43 19
+SE1 46 19
+
+1016 11 20
+corridorB9 12 20
+
+1017 11 21
+corridorB10 12 21
+1053 24 21
+corridorF6 29 21
+
+corridorB11 12 22
+1045 14 22
+1054 24 22
+corridorF7 29 22
+
+corridorF8 29 23
+1068 33 23
+corridorG6 42 23
+1033 44 23
+
+corridorB12 12 24
+1048W 14 24
+corridorG7 42 24
+1032 44 24
+
+corridorB13 12 25
+1049W 14 25
+
+1018W 11 26
+corridorB14 12 26
+
+1058A 34 27
+1057 36 27
+1058B 41 27
+corridorG8 42 27
+
+1019 11 28
+corridorB15 12 28
+corridorG9 42 28
+1031 44 28
+
+1021 4 29
+
+1050A 14 30
+1050B 19 30
+1051A 22 30
+1051B 26 30
+corridorF9 29 32
+Exit6 33 30
+corridorD1 34 30
+corridorD2 35 30
+corridorD3 36 30
+corridorD4 38 30
+corridorD5 40 30
+corridorG10 42 30
+
+Exit12 7 31
+1030 45 31
+
+Exit2 2 32
+corridorC1 4 32
+corridorC2 5 32
+corridorC3 6 32
+corridorC4 7 32
+corridorC5 12 32
+Exit3 13 32
+corridorC6 14 32
+corridorC7 16 32
+corridorC8 18 32
+corridorC9 19 32
+corridorC10 22 32
+corridorC11 26 32
+corridorC12 27 32
+1029 40 32
+
+Exit13 12 33
+Exit5 30 33
+
+1024 16 34
+1025 18 34
+1026 27 34
+
+Exit4 28 35
+
+1022 5 36
+1023 6 36
+
+SC1 1 37
+SH1 11.5 37
+SD1 31 37
+
+1028 38 38
+
+1027 35 39
+
+0002mainExit 28 40
+
+
+corridorI1 0 4
+corridorI2 1 4
+corridorI3 3 4
+corridorI4 5 4
+corridorI5 6 4
+
+corridorJ1 12 4
+corridorJ2 12 6
+corridorJ3 12 7
+corridorJ4 12 12
+corridorJ5 12 13
+corridorJ6 12 14
+corridorJ7 12 15
+corridorJ8 12 17
+corridorJ9 12 18
+corridorJ10 12 19
+corridorJ11 12 20
+corridorJ12 12 22
+corridorJ13 12 23
+corridorJ14 12 24
+
+corridorK1 1 27
+corridorK2 2 27
+corridorK3 4 27
+corridorK4 5 27
+corridorK5 6 27
+corridorK6 7 27
+corridorK7 8 27
+corridorK8 11 27
+corridorK9 12 27
+corridorK10 13 27
+corridorK11 14 27
+corridorK12 15 27
+corridorK13 17 27
+corridorK14 19 27
+
+corridorL1 33 26
+corridorL2 34 26
+corridorL3 35 26
+corridorL4 35.5 26
+corridorL5 36 26
+corridorL6 37 26
+corridorL7 38 26
+corridorL8 40 26
+corridorL9 43 26
+
+corridorM1 13 6
+corridorM2 16 6
+corridorM3 17 6
+corridorM4 18 6
+
+corridorN1 31 6
+corridorN2 31 8
+corridorN3 31 11
+corridorN4 31 12
+corridorN5 31 16
+corridorN6 31 21
+corridorN7 31 23
+corridorN8 31 26
+corridorN9 31 27
+
+corridorO1 45 6
+corridorO2 45 7
+corridorO3 45 8
+corridorO4 45 9
+corridorO5 45 10
+corridorO6 45 11
+corridorO7 45 12
+corridorO8 45 14 
+corridorO9 45 16
+corridorO10 45 17
+corridorO11 45 20
+corridorO12 45 21
+corridorO13 45 22
+corridorO14 45 23
+corridorO15 45 25
+corridorO16 45 26
+
+corridorP1 36 6
+corridorP2 37 6
+corridorP3 38 6
+corridorP4 39 6
+corridorP5 42 6
+corridorP6 44 6
+
+2019 4 37
+2020 7 37
+2021 8 37
+2022 13 37
+2023 14 37
+2024 15 37
+2025 17 37
+2026 19 37
+
+Exit17 1 28
+Exit18 31 28
+Exit23 11 28
+
+2027W 33 27
+2029W 35 27
+2030W 36 27
+2031W 38 27
+2032 40 27
+2033 43 27
+
+2018 2 26
+2017 5 26
+2016 6 26
+2051 15 26
+Exit20 32 26
+2034 46 26
+
+2064B 35.5 25
+2052B 37 25
+2035 46 25
+
+2015 10 24
+
+2049W 13 23
+2064A 34 23
+2052A 41 23
+
+2048W 13 22
+2036 46 22
+
+2063 34 21
+2037 46 21
+
+2014 10 20
+2053 41 20
+
+2047 13 19
+
+2013 10 18
+
+2012W 10 17
+Exit19 45.5 17
+
+2062 34 16
+2054 41 16
+
+2010W 10 15
+
+2009 10 14
+2038 46 14
+
+2008 10 13
+
+2046 13 12
+2061 34 12
+2055 41 12
+
+2060A 34 11
+2056A 41 11
+
+2039 46 10
+
+2060B 36 9
+2056B 38 9
+2043 46 9
+
+2059 32 8
+2057 41 8
+
+2007 10 7
+2045 12 7
+2058 41 7
+
+Exit21 33 6
+
+Exit22 31 5
+
+2002 13 4
+
+2001 16 3
+2000 18 3
+2044 37 3
+2043 39 3
+2042 42 3
+2041 45.5 3
+Exit16 12 3
+
+2006 1 1
+2005 3 1
+2004 5 1
+2003 9 1
+
